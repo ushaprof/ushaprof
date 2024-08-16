@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on coding projects...
 - 📫 How to reach me @bootcamp slack space...
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact:26th consecutive academic year of teaching at UD, feline fan
+- ⚡ Fun fact: feline fan
 
 <!---
 ushaprof/ushaprof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
